@@ -46,17 +46,11 @@ python3 run.py --map_name Maze --start 0 0 --goal 99 99 --seed 1 --stop_time 60 
 We also provide options to change the rbit (maximum edge length), and number of samples when running. You can also visualize every edge addition and removal by disabling the --fast option.
 <!-- </details> -->
 
+
+
 ## Examples
 
-<img src="https://github.com/Sahas-Ananth/BIT-Star/Output/default_gif.gif" width="250" height="250" alt="Empty Scenario">
-
-<!-- ![Empty Scenario](Output/default_gif.gif) 
-![](Output/enc_gif.gif) 
-![](Output/maze_gif.gif) 
-![](Output/wall_gif.gif)  -->
-## Examples
-
-<img src="https://github.com/marleyshan21/Batch-informed-trees/tree/master/Output/Output/default_gif.gif"  alt="Empty Scenario">
-<img src="https://github.com/marleyshan21/Batch-informed-trees/tree/master/Output/Output/enc_gif.gif"  alt="Enclosure Scenario">
-<img src="https://github.com/marleyshan21/Batch-informed-trees/tree/master/Output/Output/maze_gif.gif"  alt="Maze Scenario">
-<img src="https://github.com/marleyshan21/Batch-informed-trees/tree/master/Output/Output/wall_gif.gif"  alt="Wall Scenario">
+<img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/default_gif.gif"  alt="Empty Scenario">
+<img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/enc_gif.gif"  alt="Enclosure Scenario">
+<img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/maze_gif.gif"  alt="Maze Scenario">
+<img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/wall_gif.gif"  alt="Wall Scenario">
