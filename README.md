@@ -51,9 +51,12 @@ We also provide options to change the rbit (maximum edge length), and number of 
 ## Examples
 - Empty Scenario
 <img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/default_gif.gif"  alt="Empty Scenario">
+
 - Enclosure Scenario
 <img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/enc_gif.gif"  alt="Enclosure Scenario">
+
 - Maze Scenario
 <img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/maze_gif.gif"  alt="Maze Scenario">
+
 - Wall Scenario
 <img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/wall_gif.gif"  alt="Wall Scenario">
