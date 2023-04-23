@@ -1,4 +1,4 @@
-# CS 5335 -  Robotics Science and Systems - Final Project
+# Batch Informed Trees
 
 ## BIT* Algorithm - Introduction
 
