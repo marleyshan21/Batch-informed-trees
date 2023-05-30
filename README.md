@@ -1,5 +1,7 @@
 # Batch Informed Trees
 
+Done in collaboration with - Saharajit Anantharamakrishnan, Drake Moore, Thejaswini Gopiparthi, and Francis Jacob Kalliath
+
 ## BIT* Algorithm - Introduction
 
 
