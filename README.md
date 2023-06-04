@@ -1,6 +1,6 @@
 # Batch Informed Trees
 
-Done in collaboration with - Saharajit Anantharamakrishnan, Drake Moore, Thejaswini Gopiparthi, and Francis Jacob Kalliath
+[**Project Report**](Batch_informed_trees.pdf) | [**Project Slides**](https://1drv.ms/p/s!AiYkRRrhfnuCkVzbbknyJE-WsNeL?e=4lao3E) | [**Turtlebot Demo - (Wall Gap Scenario)**](https://youtu.be/JurQ1YLwIVY)
 
 ## BIT* Algorithm - Introduction
 
@@ -12,7 +12,7 @@ Done in collaboration with - Saharajit Anantharamakrishnan, Drake Moore, Thejasw
  
  Heuristics are used by search-based planners like A* to effectively search across graphs, but their efficiency is limited by the resolution of the selected approximation. To approximate the problem, sample-based planners such as RRT* employ random sampling. Here, the resolution can be increased until we find a suitable solution. These random samples approximate the region in all directions at the same time, making the search ineffective. 
  
- A recent approach called Batch Informed Trees (BIT*)combines the strengths of both Search-based sampling-based planners. Heuristics and Sampling is used by BIT* to alternate between searching and approximating. In this work, we have used the pseudo-code from the paper and coded the algorithm from scratch, and tested its performance in R2 space for different motion planning scenarios.
+ A recent approach called Batch Informed Trees (BIT*) combines the strengths of both Search-based sampling-based planners. Heuristics and Sampling is used by BIT* to alternate between searching and approximating. In this work, we have used the pseudo-code from the paper and coded the algorithm from scratch, and tested its performance in R2 space for different motion planning scenarios.
 
 ## Installation
 
@@ -62,3 +62,8 @@ We also provide options to change the rbit (maximum edge length), and number of 
 
 - Wall Scenario
 <img src="https://github.com/marleyshan21/Batch-informed-trees/blob/master/Output/wall_gif.gif"  alt="Wall Scenario">
+
+
+## Collaboration
+
+Done in collaboration with - Saharajit Anantharamakrishnan, Drake Moore, Thejaswini Gopiparthi, and Francis Jacob Kalliath
